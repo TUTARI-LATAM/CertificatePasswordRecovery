@@ -22,7 +22,7 @@ This repository contains the following solutions:
 
 ## Compile Contact
 
-*https://tutari.net
+* https://tutari.net
   
 ## Contact
 
