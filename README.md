@@ -18,7 +18,12 @@ This repository contains the following solutions:
     * NET5
     * Around 9-10 times performance improvement
   * See this post for details: [How to recover the private key of a (.pfx) certificate?](https://www.koskila.net/how-to-recover-the-private-key-of-a-pfx-certificate/)
+* Compile: Compile Version of code for Windows from modernized password recovery tool version by [koskila](https://github.com/koskila/) 
 
+## Compile Contact
+
+*https://tutari.net
+  
 ## Contact
 
 * https://www.koskila.net/contact
